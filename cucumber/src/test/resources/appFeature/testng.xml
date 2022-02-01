@@ -1,0 +1,7 @@
+<Suite name = "Test automation regression suite" Verbose="1" thread-count="3" parallel = "tests">
+<test name = "test">
+<classes>
+<class name = "LoginTest"></class>
+</classes>
+</test>
+</Suite>
